@@ -90,4 +90,6 @@ plt.show()
 ![decision tree classifier model](sam.png)
 <img width="743" height="669" alt="image" src="https://github.com/user-attachments/assets/9ce0f589-a620-4534-bb05-0dd207682cc6" />
 ## Result:
-Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
+
+Thus the program to implement the Decision Tree Classifier Model for Predicting Employee Churn is
+written and verified using python programming.
