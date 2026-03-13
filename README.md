@@ -6,7 +6,6 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
 ## Algorithm
 1. Import pandas
 2. Import Decision tree classifier
@@ -87,11 +86,8 @@ tree.plot_tree(dt_model, feature_names=X.columns, class_names=['Stayed','Churn']
 plt.show()
 
 ```
-
 ## Output:
 ![decision tree classifier model](sam.png)
 <img width="743" height="669" alt="image" src="https://github.com/user-attachments/assets/9ce0f589-a620-4534-bb05-0dd207682cc6" />
-
-
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
